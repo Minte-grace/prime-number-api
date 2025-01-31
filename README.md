@@ -2,8 +2,6 @@
 
 A simple Node.js + TypeScript API that checks whether a given number is prime.  
 
-> **Note**: The `node_modules` directory is now properly excluded from version control. See below for details.
-
 ---
 
 ## Table of Contents
